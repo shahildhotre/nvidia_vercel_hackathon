@@ -1,3 +1,11 @@
 streamlit>=1.32.0
 pillow>=10.0.0
 pandas>=2.0.0 
+monai 
+torch
+matplotlib 
+pydicom
+faiss-cpu
+transformers
+
+
